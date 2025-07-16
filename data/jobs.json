@@ -1,0 +1,136 @@
+{
+    "jobs": [
+        {
+            "id": "job1",
+            "employerId": "emp1",
+            "title": "Java Backend Developer",
+            "type": "Full-time",
+            "location": "Hyderabad, Telangana",
+            "salary": "₹12,00,000 - ₹15,00,000",
+            "description": "Develop scalable backend services for banking solutions.",
+            "requirements": "3+ years Java/Spring Boot, SQL, AWS",
+            "postedAt": "2023-10-01T09:00:00Z"
+        },
+        {
+            "id": "job2",
+            "employerId": "emp1",
+            "title": "Cloud DevOps Engineer",
+            "type": "Full-time",
+            "location": "Bangalore, Karnataka",
+            "salary": "₹10,00,000 - ₹14,00,000",
+            "description": "Automate CI/CD pipelines for enterprise clients.",
+            "requirements": "Azure/GCP, Kubernetes, Terraform",
+            "postedAt": "2023-10-05T09:00:00Z"
+        },
+        {
+            "id": "job3",
+            "employerId": "emp1",
+            "title": "React.js Developer",
+            "type": "Full-time",
+            "location": "Pune, Maharashtra",
+            "salary": "₹8,00,000 - ₹12,00,000",
+            "description": "Build user interfaces for healthcare applications.",
+            "requirements": "2+ years React, Redux, TypeScript",
+            "postedAt": "2023-10-10T09:00:00Z"
+        },
+        {
+            "id": "job4",
+            "employerId": "emp1",
+            "title": "QA Automation Engineer",
+            "type": "Full-time",
+            "location": "Chennai, Tamil Nadu",
+            "salary": "₹6,00,000 - ₹9,00,000",
+            "description": "Design test frameworks for web/mobile apps.",
+            "requirements": "Selenium, JUnit, 2+ years experience",
+            "postedAt": "2023-10-15T09:00:00Z"
+        },
+        {
+            "id": "job5",
+            "employerId": "emp2",
+            "title": "Data Scientist",
+            "type": "Full-time",
+            "location": "Gurgaon, Haryana",
+            "salary": "₹15,00,000 - ₹20,00,000",
+            "description": "Optimize delivery logistics using ML models.",
+            "requirements": "Python, PySpark, 3+ years ML experience",
+            "postedAt": "2023-09-20T09:00:00Z"
+        },
+        {
+            "id": "job6",
+            "employerId": "emp2",
+            "title": "Product Manager",
+            "type": "Full-time",
+            "location": "Bangalore, Karnataka",
+            "salary": "₹18,00,000 - ₹25,00,000",
+            "description": "Lead product strategy for Zomato Pro.",
+            "requirements": "5+ years PM experience, Agile/Scrum",
+            "postedAt": "2023-09-25T09:00:00Z"
+        },
+        {
+            "id": "job7",
+            "employerId": "emp2",
+            "title": "UX Designer",
+            "type": "Full-time",
+            "location": "Remote",
+            "salary": "₹9,00,000 - ₹12,00,000",
+            "description": "Redesign Zomato's consumer app interface.",
+            "requirements": "Figma, 3+ years UX experience",
+            "postedAt": "2023-10-01T09:00:00Z"
+        },
+        {
+            "id": "job8",
+            "employerId": "emp2",
+            "title": "Growth Hacker",
+            "type": "Full-time",
+            "location": "Mumbai, Maharashtra",
+            "salary": "₹10,00,000 - ₹15,00,000",
+            "description": "Acquire and retain restaurant partners.",
+            "requirements": "Digital marketing, SQL, 2+ years",
+            "postedAt": "2023-10-10T09:00:00Z"
+        },
+        {
+            "id": "job9",
+            "employerId": "emp3",
+            "title": "SEO Manager",
+            "type": "Full-time",
+            "location": "Mumbai, Maharashtra",
+            "salary": "₹7,00,000 - ₹10,00,000",
+            "description": "Improve organic rankings for beauty keywords.",
+            "requirements": "Ahrefs/SEMrush, 3+ years SEO",
+            "postedAt": "2023-09-15T09:00:00Z"
+        },
+        {
+            "id": "job10",
+            "employerId": "emp3",
+            "title": "Influencer Marketing Specialist",
+            "type": "Full-time",
+            "location": "Delhi, NCR",
+            "salary": "₹6,00,000 - ₹8,00,000",
+            "description": "Manage partnerships with beauty influencers.",
+            "requirements": "Instagram/TikTok savvy, negotiation skills",
+            "postedAt": "2023-09-20T09:00:00Z"
+        },
+        {
+            "id": "job11",
+            "employerId": "emp3",
+            "title": "Warehouse Operations Lead",
+            "type": "Full-time",
+            "location": "Bengaluru, Karnataka",
+            "salary": "₹5,00,000 - ₹7,00,000",
+            "description": "Optimize fulfillment center efficiency.",
+            "requirements": "Logistics experience, SAP knowledge",
+            "postedAt": "2023-10-05T09:00:00Z"
+        },
+        {
+            "id": "job12",
+            "employerId": "emp3",
+            "title": "Beauty Content Writer",
+            "type": "Freelance",
+            "location": "Remote",
+            "salary": "₹30,000 - ₹50,000/month",
+            "description": "Create SEO-friendly product descriptions.",
+            "requirements": "Beauty industry knowledge, 1+ year writing",
+            "postedAt": "2023-10-12T09:00:00Z"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "users": [
+        {
+            "id": "js1",
+            "email": "rahul.sharma@example.com",
+            "password": "secure123",
+            "role": "job_seeker",
+            "profile": {
+                "name": "Rahul Sharma",
+                "title": "Software Engineer",
+                "location": "Bangalore, Karnataka",
+                "skills": ["Java", "Spring Boot", "Microservices", "AWS"],
+                "resume": "5+ years of backend development experience in fintech.",
+                "resumeLink": "https://example.com/resumes/rahul_sharma.pdf"
+            }
+        },
+        {
+            "id": "js2",
+            "email": "priya.patel@example.com",
+            "password": "secure456",
+            "role": "job_seeker",
+            "profile": {
+                "name": "Priya Patel",
+                "title": "Data Analyst",
+                "location": "Mumbai, Maharashtra",
+                "skills": ["Python", "SQL", "PowerBI", "Excel"],
+                "resume": "3 years analyzing e-commerce data."
+            }
+        },
+        {
+            "id": "js3",
+            "email": "arjun.singh@example.com",
+            "password": "secure789",
+            "role": "job_seeker",
+            "profile": {
+                "name": "Arjun Singh",
+                "title": "Digital Marketing Specialist",
+                "location": "Delhi, NCR",
+                "skills": ["SEO", "Google Ads", "Facebook Ads", "Content Marketing"],
+                "resume": "Generated 2M+ organic traffic for SaaS clients."
+            }
+        },
+        {
+            "id": "emp1",
+            "email": "careers@techmahindra.com",
+            "password": "corp123",
+            "role": "employer",
+            "profile": {
+                "companyName": "TechMahindra",
+                "industry": "IT Services",
+                "location": "Pune, Maharashtra",
+                "website": "https://techmahindra.com",
+                "description": "Top-tier IT consulting firm serving global clients."
+            }
+        },
+        {
+            "id": "emp2",
+            "email": "hr@zomato.com",
+            "password": "corp456",
+            "role": "employer",
+            "profile": {
+                "companyName": "Zomato",
+                "industry": "Food Tech",
+                "location": "Gurgaon, Haryana",
+                "website": "https://zomato.com",
+                "description": "India's leading food delivery and restaurant discovery platform."
+            }
+        },
+        {
+            "id": "emp3",
+            "email": "talent@nykaa.com",
+            "password": "corp789",
+            "role": "employer",
+            "profile": {
+                "companyName": "Nykaa",
+                "industry": "E-commerce (Beauty)",
+                "location": "Mumbai, Maharashtra",
+                "website": "https://nykaa.com",
+                "description": "India's largest beauty and wellness online retailer."
+            }
+        }
+    ]
+}

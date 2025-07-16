@@ -1,0 +1,39 @@
+{
+    "applications": [
+        {
+            "id": "app1",
+            "jobId": "job1",
+            "jobSeekerId": "js1",
+            "status": "Applied",
+            "appliedAt": "2023-10-02T14:30:00Z"
+        },
+        {
+            "id": "app2",
+            "jobId": "job5",
+            "jobSeekerId": "js2",
+            "status": "Interview Scheduled",
+            "appliedAt": "2023-09-22T11:15:00Z"
+        },
+        {
+            "id": "app3",
+            "jobId": "job9",
+            "jobSeekerId": "js3",
+            "status": "Rejected",
+            "appliedAt": "2023-09-18T16:45:00Z"
+        },
+        {
+            "id": "app4",
+            "jobId": "job3",
+            "jobSeekerId": "js1",
+            "status": "Offer Extended",
+            "appliedAt": "2023-10-12T10:20:00Z"
+        },
+        {
+            "id": "app5",
+            "jobId": "job7",
+            "jobSeekerId": "js2",
+            "status": "Applied",
+            "appliedAt": "2023-10-03T13:10:00Z"
+        }
+    ]
+}
